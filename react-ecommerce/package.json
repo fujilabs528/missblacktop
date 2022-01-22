@@ -2,7 +2,7 @@
   "name": "react-ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fujilabs528.github.io/missgreentop",
+  "homepage": "https://fujilabs528.github.io/missblacktop",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.7.0",
     "@stripe/stripe-js": "^1.22.0",
